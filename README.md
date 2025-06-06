@@ -7,7 +7,7 @@ Kopiere eine beliebige Hotelbild-URL ins erste Feld sowie eines der folgenden Pe
 
 ## Accessibility Personas
 ### Heinz – Älterer Nutzende mit mehreren Einschränkungen
-![Heinz – Älterer Nutzende mit mehreren Einschränkungen]([https://media.leanscope.io/media/poster/665/persona/cfcf1b76-1e3c-4938-aeba-055f4558b72d?publicDataSessionGuid=2c5632da-4f39-480e-bad6-8551be97893f&color=7c991f&size=m&showQrCode=true]
+![Heinz – Älterer Nutzende mit mehreren Einschränkungen](https://media.leanscope.io/media/poster/665/persona/cfcf1b76-1e3c-4938-aeba-055f4558b72d?publicDataSessionGuid=2c5632da-4f39-480e-bad6-8551be97893f&color=7c991f&size=m&showQrCode=true)
 URL zu kopieren: https://media.leanscope.io/media/poster/665/persona/7d089f55-7a21-4dc5-a1c4-9c0e6b8e253f?publicDataSessionGuid=9b09fbd9-03f9-4063-b6fb-c0a6adb70b49&color=e29a2a&size=m&showQrCode=true
 
 ### Anne - Sehbehinderte Screenreader-Nutzende
