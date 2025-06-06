@@ -6,7 +6,8 @@ Dies ist ein kleines, per Vibe-Coding entstandes Tool, das ein Hotelbild einlies
 Kopiere eine beliebige Hotelbild-URL ins erste Feld sowie eines der folgenden Persona-Poster URLs ins zweite Bild um eine zugeschnittene barrierefreie Audiobeschreibung zu erhalten.
 
 ## Accessibility Personas
-### Heinz – Älterer Nutzende mit mehreren Einschränkungen
+### Heinz
+#### Älterer Nutzende mit mehreren Einschränkungen
 ![Heinz – Älterer Nutzende mit mehreren Einschränkungen](https://media.leanscope.io/media/poster/665/persona/7d089f55-7a21-4dc5-a1c4-9c0e6b8e253f?publicDataSessionGuid=9b09fbd9-03f9-4063-b6fb-c0a6adb70b49&color=e29a2a&size=m&showQrCode=true)
 
 ### Anne - Sehbehinderte Screenreader-Nutzende
@@ -22,5 +23,7 @@ Kopiere eine beliebige Hotelbild-URL ins erste Feld sowie eines der folgenden Pe
 ![Paul – Nutzender mit Asperger](https://media.leanscope.io/media/poster/665/persona/da4f3c8d-5609-4d87-ad52-5168609bbe23?publicDataSessionGuid=e7e8ebcb-2a53-4921-bbe1-f40b5421736a&color=bb6cc0&size=m&showQrCode=true)
 
 ## Accessibility Podcast
-Dieses Projekt entstand im Rahmen des Podcasts [**2025: Odyssee Accessibility**](https://links.centigrade.de/podcasts/odyssee-accessibility). Hört und schaut mal rein!
-![2025: Odyssee Accessibility]([https://links.centigrade.de/podcasts/odyssee-accessibility](https://cdn.prod.website-files.com/64cb5356ff6b26c9a541dc8b/67ff4ef3efdfc8e55052587f_image%2052.png)
+Dieses Projekt entstand im Rahmen des Podcasts [**2025: Odyssee Accessibility**](https://links.centigrade.de/podcasts/odyssee-accessibility).
+
+Hört und schaut mal rein!
+![2025: Odyssee Accessibility](https://cdn.prod.website-files.com/64cb5356ff6b26c9a541dc8b/67ff4ef3efdfc8e55052587f_image%2052.png)
