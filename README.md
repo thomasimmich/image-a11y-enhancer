@@ -22,5 +22,5 @@ Kopiere eine beliebige Hotelbild-URL ins erste Feld sowie eines der folgenden Pe
 ![Paul – Nutzender mit Asperger](https://media.leanscope.io/media/poster/665/persona/da4f3c8d-5609-4d87-ad52-5168609bbe23?publicDataSessionGuid=e7e8ebcb-2a53-4921-bbe1-f40b5421736a&color=bb6cc0&size=m&showQrCode=true)
 
 ## Accessibility Podcast
-Dieses Projekt entstand im Rahmen des Podcasts **2025: Odyssee Accessibility**. Hört und schaut mal rein!
-![2025: Odyssee Accessibility](https://links.centigrade.de/podcasts/odyssee-accessibility)
+Dieses Projekt entstand im Rahmen des Podcasts [**2025: Odyssee Accessibility**](https://links.centigrade.de/podcasts/odyssee-accessibility). Hört und schaut mal rein!
+![2025: Odyssee Accessibility]([https://links.centigrade.de/podcasts/odyssee-accessibility](https://cdn.prod.website-files.com/64cb5356ff6b26c9a541dc8b/67ff4ef3efdfc8e55052587f_image%2052.png)
